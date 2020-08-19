@@ -5,7 +5,7 @@
 
 ###
 
-styling : node-sass
+styling : node-sass <br/>
 icon : react-icons 사용
 
 ### 작업 순서
@@ -39,6 +39,9 @@ icon : react-icons 사용
   - state를 통해 상태 관리
 
 3. 코드
+   <br/>
+   <br/>
+
    3-1 App.js
 
 ```
