@@ -1,0 +1,24 @@
+.TodoTemplate {
+  width: 512px;
+  // width가 주어진 상태에서 가운데 정렬
+  margin-left: auto;
+  margin-right: auto;
+  //rem 단위는 반응형으로 만들 때 많이 쓰임
+  margin-top: 6rem;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.app-title {
+  background: #119afc;
+  color: #ffffff;
+  height: 4rem;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  background: #ffffff;
+}

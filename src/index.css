@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* 전체 배경 기본 컬러 */
+  background: #e3f2fc;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
