@@ -40,7 +40,6 @@ icon : react-icons 사용
 
 3. 코드
    <br/>
-   <br/>
 
    3-1 App.js
 
